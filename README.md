@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 [![Spotify](https://spotify-readme-orcin.vercel.app.vercel.app/api)](https://open.spotify.com/user/ericdrgn)
+
+<h3>🎶 Vibing to</h3>
+<a href="https://open.spotify.com/user/ericdrgn">
+  <img src="https://ericdrgn.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
+</a>
