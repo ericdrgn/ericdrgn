@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 <h3>🎶 Vibing to</h3>
 <a href="https://open.spotify.com/user/ericdrgn">
-  <img src="https://ericdrgn.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
+  <img src="https://spotify-readme-orcin.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
 </a>
